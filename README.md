@@ -5,6 +5,10 @@ course project: **Regex → NFA (Thompson's construction) → DFA (lazy
 subset construction) → MATCH / NO MATCH**, plus a browser dashboard for
 live demos and testing evidence.
 
+> **Picking this project up from someone else?** Read
+> [HANDOFF.md](HANDOFF.md) first — current status, what's out of scope,
+> and where everything lives.
+
 ## Why it's structured this way
 
 The basic version of this project (parse a regex, build an NFA, build a
