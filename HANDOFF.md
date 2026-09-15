@@ -3,7 +3,8 @@
 This project is being handed off — the original author (Yohann) is no
 longer actively working on it. This document is the "read this first"
 for whoever picks it up next. It's not a substitute for the
-[README](README.md) (setup/run/architecture) — read that too.
+[README](README.md) (setup/run/architecture) or [CONTEXT.md](CONTEXT.md)
+(design rationale) — read those too.
 
 ## Status: functionally complete for the "basic engine" scope
 

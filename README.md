@@ -7,7 +7,8 @@ live demos and testing evidence.
 
 > **Picking this project up from someone else?** Read
 > [HANDOFF.md](HANDOFF.md) first — current status, what's out of scope,
-> and where everything lives.
+> and where everything lives. [CONTEXT.md](CONTEXT.md) has the
+> engineering rationale behind the trickier design decisions.
 
 ## Why it's structured this way
 
